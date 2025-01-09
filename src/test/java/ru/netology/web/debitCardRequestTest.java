@@ -15,7 +15,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class CallbackTest {
+class debitCardRequestTest {
     private WebDriver driver;
 
     @BeforeAll
