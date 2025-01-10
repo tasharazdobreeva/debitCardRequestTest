@@ -2,7 +2,6 @@
 Thumbs.db*
 .DS_Store
 HELP.md
-.gradle
 build/
 
 ### STS ###
@@ -44,4 +43,4 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-!**/.gradl/workflows/**
+
